@@ -1,0 +1,32 @@
+_repo: Fraternal-Charity_33701
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valuy, Benôit
+    aliases:
+    - Valuy, Benedict
+    - Valuy, B. (Benôit)
+    birthdate: 1808
+    deathdate: 1869
+    gutenberg_agent_id: '36545'
+    url: http://www.gutenberg.org/2009/agents/36545
+description: ''
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BX'
+- !lcsh 'Spiritual life -- Catholic Church'
+- !lcsh 'Meditations'
+- !lcsh 'Charity'
+title: Fraternal Charity
+url: http://www.gutenberg.org/ebooks/33701
